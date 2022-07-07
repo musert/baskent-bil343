@@ -1,3 +1,9 @@
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * TestInheritance.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates inheritance
+ * 2022 Summer
+ */
 
 public class TestInheritance {
 

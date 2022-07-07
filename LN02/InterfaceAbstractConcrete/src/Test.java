@@ -1,4 +1,9 @@
-
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * Test.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates interface-abstract-concrete class
+ * 2022 Summer
+ */
 public class Test {
 	public static void main(String[] args) {
 		Point p = new Point(200, 300); // x, y coordinates 

@@ -1,4 +1,9 @@
-
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * TwoDShape.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates interface-abstract-concrete class
+ * 2022 Summer
+ */
 public abstract class TwoDShape implements Shape {
 	/*
 	public final double PI = 3.14159;

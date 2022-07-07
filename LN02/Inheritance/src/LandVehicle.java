@@ -1,3 +1,10 @@
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * LandVehicle.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates inheritance
+ * 2022 Summer
+ */
+
 public class LandVehicle extends Vehicle {
 	// implicitly derived attributes: model, color
 	private int numWheel;

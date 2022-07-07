@@ -1,4 +1,9 @@
-
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * Cylinder.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates interface-abstract-concrete class
+ * 2022 Summer
+ */
 public class Cylinder extends ThreeDShape{
 	private double r; // radius of cylinder
 	private double h; // height of cylinder

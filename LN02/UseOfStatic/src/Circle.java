@@ -1,3 +1,11 @@
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * Circle.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates static keyword
+ * 2022 Summer
+ */
+
+
 public class Circle { 
 	private int x;
 	private int y;
