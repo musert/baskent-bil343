@@ -1,0 +1,44 @@
+BIL343 (Mustafa Sert)
+June 22, 2022
+-
+
+UC1: play dice game
+
+public class DiceGame {
+	Die d1 = new Die();
+	Die d2 = new Die();
+	int fv1, fv2;
+	play() {
+		
+		fv1 = d1.roll();
+		fv2 = d2.roll();
+		int total;
+		total = calculateSum(fv1, fv2);
+	}
+	
+	int calculateSum(..) {
+		return total;
+	}
+}
+----
+public class Die {
+	int fv;
+	
+	int getFaceValue() {
+		return fv;
+	}
+	int roll(){
+		return getFaceValue();
+	}
+}
+---
+
+public class PlayDiceGame{
+
+main() {
+
+	...
+	DiceGame dg = new DiceGame();
+	dg.play();
+	...
+}
