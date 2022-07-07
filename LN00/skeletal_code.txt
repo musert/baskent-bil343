@@ -1,4 +1,5 @@
-BIL343 (Mustafa Sert)
+BIL343 Skeletal code example 
+Assoc. Prof. Mustafa Sert
 June 22, 2022
 -
 
