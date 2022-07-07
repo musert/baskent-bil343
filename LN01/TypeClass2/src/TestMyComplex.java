@@ -1,4 +1,9 @@
-
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * TestMyComplex.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates type classes
+ * 2022 Summer
+ */
 public class TestMyComplex {
 
 	public static void main(String[] args) {

@@ -1,3 +1,10 @@
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * TestCircle.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates type classes
+ * 2022 Summer
+ */
+
 import java.text.DecimalFormat;
 
 public class TestCircle {

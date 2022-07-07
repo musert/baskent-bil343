@@ -1,3 +1,9 @@
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * Point.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates type classes
+ * 2022 Summer
+ */
 public class Point {
 	private int x, y;	
 	

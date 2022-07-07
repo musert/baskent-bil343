@@ -1,3 +1,9 @@
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * Test.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates packages
+ * 2022 Summer
+ */
 import baskent.edu.tr.ceng.msert.bil343.lecture.*;
 public class Test {
 

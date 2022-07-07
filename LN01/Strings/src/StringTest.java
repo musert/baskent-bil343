@@ -1,4 +1,9 @@
-// import java.lang.*;
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * StringTest.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates String class
+ * 2022 Summer
+ */
 
 public class StringTest {
 	public static void main(String[] args) {

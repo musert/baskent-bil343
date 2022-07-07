@@ -1,4 +1,9 @@
-
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * Circle.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates type classes
+ * 2022 Summer
+ */
 public class Circle {
 	private double radius;
 	private Point center;

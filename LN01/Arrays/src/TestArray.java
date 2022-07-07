@@ -1,3 +1,9 @@
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * TestArray.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates arrays
+ * 2022 Summer
+ */
 
 public class TestArray {
 
