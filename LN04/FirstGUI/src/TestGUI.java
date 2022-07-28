@@ -1,3 +1,10 @@
+/**
+ * BIL343 Object Oriented Programming w/Java
+ * TestGUI.java | Assoc. Prof. Mustafa Sert | Dept. of Comp. Engr., Baskent University
+ * Demonstrates window application with gUI design
+ * 2022 Summer
+ */
+ 
 import javax.swing.*;
 import java.awt.*; // Container class
 import java.awt.event.*;// for ActionListener interface
