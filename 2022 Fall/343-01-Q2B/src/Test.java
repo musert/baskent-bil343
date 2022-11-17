@@ -1,3 +1,11 @@
+/**
+ * Test.java
+ * @course BIL343 Object Orinted Programming w/Java
+ * @lecture Quiz 2B, Section 01
+ * @author Assoc. Prof. Mustafa Sert (msert@baskent.edu.tr) | Dept. of Comp. Engr., Baskent University
+ * 2022-11-14
+ */
+
 import javax.swing.JOptionPane;
 public class Test {
 	public static void main(String[] args) {
